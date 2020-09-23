@@ -1,4 +1,5 @@
 #!/bin/bash
+# 2020-05-22 MySQL master set read only mode and switchover to new slave Script version 1.0 (Author : xuh)
 unset MAILCHECK
 . $HOME/.bash_profile
 ctime=$(date +"%Y-%m-%d_%H-%M-%S")
