@@ -1,4 +1,5 @@
 #!/bin/bash
+# 2020-05-22 MySQL instance status check Script version 1.0 (Author : xuh)
 unset MAILCHECK
 . $HOME/.bash_profile
 LogDir=/etc/keepalived/log
